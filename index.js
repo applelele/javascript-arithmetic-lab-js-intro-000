@@ -1,20 +1,16 @@
 function add() {
-  var n = 5;
-  n += 3;
+  1+80
 }
 
 function subtract() {
-  var n = 5;
-  n -= 2;
+  2-2
 }
 
 function multiple() {
-  var n = 5;
-  n *= 6;
+  5*6
 }
 function devide() {
-  var n = 5;
-  n /= 5;
+ 10/2
 }
 
 function add(a, b) {
