@@ -33,3 +33,12 @@ function divide(a, b) {
   return divNum;
 }
 
+function increment(n) {
+  var increNumber = n ++;
+  return increNumber;
+}
+
+function decrement(n) {
+  var decreNumber = n --;
+  return decreNumber;
+}
