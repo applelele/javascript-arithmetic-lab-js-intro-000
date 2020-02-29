@@ -1,39 +1,34 @@
 function add() {
-  1+80
+  1+80;
 }
 
 function subtract() {
-  2-2
+  2-2;
 }
 
 function multiple() {
-  5*6
+  5*6;
 }
 function devide() {
- 10/2
+ 10/2;
 }
 
 function add(a, b) {
-  var addNumber = a + b;
-  return addNumber;
+  a + b;
 }
 
 function subtract(a, b) {
-  var subNumber = a - b;
-  return subNumber;
+  a - b;
 }
 
 function multiply(a, b) {
-  var multiNumber = a * b;
-  return multiNumber;
+  a * b;
 }
 
 function divide(a, b) {
-  var divNumber = a / b;
-  return divNumber;
+  a / b;
 }
 
-}
 function increment(n) {
   var increNumber = n ++;
   return increNumber;
