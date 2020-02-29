@@ -40,5 +40,5 @@ increment(5)
 
 function decrement(n) {
   n--;
-  return decreNumber;
+  return n;
 }
