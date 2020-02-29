@@ -30,12 +30,3 @@ function divide(a, b) {
   a / b;
 }
 
-function increment(n) {
-  var increNumber = n ++;
-  return increNumber;
-}
-
-function decrement(n) {
-  var decreNumber = n --;
-  return decreNumber;
-}
