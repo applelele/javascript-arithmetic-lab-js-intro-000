@@ -14,7 +14,8 @@ function devide() {
 }
 
 function add(a, b) {
-  a + b;
+  var addNum = a + b;
+  return addNum;
 }
 
 function subtract(a, b) {
