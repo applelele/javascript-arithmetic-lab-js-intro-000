@@ -34,7 +34,7 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  var increNumber = n++;
+  n++;
   return increNumber;
 }
 
