@@ -35,10 +35,10 @@ function divide(a, b) {
 
 function increment(n) {
   n++;
-  return increNumber;
 }
+increment(5)
 
 function decrement(n) {
-  var decreNumber = n--;
+  n--;
   return decreNumber;
 }
