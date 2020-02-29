@@ -19,14 +19,17 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  a - b;
+  var subNum = a - b;
+  return subNum;
 }
 
 function multiply(a, b) {
-  a * b;
+  var multNum = a * b;
+  return multNum;
 }
 
 function divide(a, b) {
-  a / b;
+  var divNum = a / b;
+  return divNum;
 }
 
