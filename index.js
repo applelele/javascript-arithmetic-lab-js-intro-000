@@ -54,4 +54,3 @@ function preserveDecimal(string) {
     return num;
 }
 preserveDecimal('2.222')
-console.log(num)
