@@ -44,11 +44,11 @@ function decrement(n) {
 }
 
 function makeInt(string) {
-  parseInt(string, 10);
+  parseInt('string', 10);
 }
 makeInt('2')
 
 function makeInt(string) {
-  parseInt(string, 10);
+  parseInt('string', 10);
 }
 makeInt('2.2222')
