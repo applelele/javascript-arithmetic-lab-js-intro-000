@@ -43,9 +43,9 @@ function decrement(n) {
   return n;
 }
 
-function makeInt(string) {
+function makeInt() {
   parseInt('string', 10);
-  string = "2";
+  string = "2.222";
 }
 
 function makeInt(string) {
