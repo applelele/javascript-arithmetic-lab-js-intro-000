@@ -43,6 +43,6 @@ function decrement(n) {
   return n;
 }
 
-function makeInt() {
+function makeInt(string) {
   parseInt('2.222', 10);
 }
