@@ -46,3 +46,7 @@ function decrement(n) {
 function makeInt(string) {
   parseInt('2.222', 10);
 }
+
+function preserveDecimal(string) {
+  parseFloat();
+}
