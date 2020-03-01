@@ -35,10 +35,15 @@ function divide(a, b) {
 
 function increment(n) {
   n++;
-  return n
+  return n;
 }
 
 function decrement(n) {
   n--;
   return n;
 }
+
+function makeInt(string) {
+  parseInt(string, 10);
+}
+makeInt('2.2222')
