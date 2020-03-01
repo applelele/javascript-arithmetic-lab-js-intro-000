@@ -35,8 +35,8 @@ function divide(a, b) {
 
 function increment(n) {
   n++;
+  return n
 }
-increment(5)
 
 function decrement(n) {
   n--;
